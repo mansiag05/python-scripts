@@ -1,2 +1,2 @@
 # python-scripts
-This Repo is a collection of various important python scripts.
+This Repo is a collection of useful python scripts.
